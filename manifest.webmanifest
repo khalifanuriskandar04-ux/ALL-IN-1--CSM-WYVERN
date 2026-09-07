@@ -1,0 +1,16 @@
+{
+  "name": "CSM WYVERN — ALL IN 1 Ship Operations",
+  "short_name": "ALL IN 1 CSM WYVERN",
+  "description": "CSM WYVERN Ship Operations Management System — ALL IN 1",
+  "start_url": "./index.html?v=20260908-final2",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07131f",
+  "theme_color": "#07131f",
+  "icons": [
+    {"src":"icons/icon-180.png","sizes":"180x180","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-192-v2.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512-v2.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
